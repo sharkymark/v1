@@ -17,3 +17,6 @@ This is a collection of tips and tricks to getting the most out of Coder v1. Mar
 ## Table of Contents
 
 - [Suggested topics](./topics.md)
+
+## Resources
+- [Markdown quick reference](https://wordpress.com/support/markdown-quick-reference/)
