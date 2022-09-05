@@ -14,6 +14,8 @@ This is a collection of tips and tricks to getting the most out of Coder v1. Mar
 9-4-22 mark@coder.com
 1. created repo, `README.md` and a list of potential topics to build out.
 
+## FAQ
+
 ## Table of Contents
 
 - [Suggested topics](./topics.md)
